@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     #项目名称
-    s.name         = "LFCategory"
+    s.name         = "LFCategorys"
 
     #版本
     s.version      = "2.0"
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/mylovell/LFCategory.git", :tag => s.version }
 
     #源码中指定哪些文件需要下载
-    s.source_files  = "Classes", "LFCategory/LFCategory/*.{h,m}"
+    s.source_files  = "Classes", "LFCategory/LFCategorys/*.{h,m}"
 
     #s.exclude_files当前用不了，可以不要
     # s.exclude_files = "Classes/Exclude"
