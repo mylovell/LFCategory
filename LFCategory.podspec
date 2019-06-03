@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.name         = "LFCategory"
 
     #版本
-    s.version      = "1.0"
+    s.version      = "2.0"
 
     #简介
     s.summary      = "some category."
