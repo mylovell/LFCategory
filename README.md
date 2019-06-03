@@ -1,2 +1,2 @@
 # LFCategory
-Some Category
+Some Category.
