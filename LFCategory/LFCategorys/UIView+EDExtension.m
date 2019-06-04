@@ -275,4 +275,8 @@ NSString *shadowContext = @"Shadow";
     [self addGestureRecognizer:tap];
 }
 
+- (void)setupViewColor {
+    self.backgroundColor = [UIColor blueColor];
+}
+
 @end

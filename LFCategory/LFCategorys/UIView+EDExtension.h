@@ -63,4 +63,7 @@
 
 //删除tableview底部多余横线
 - (void)setExtraCellLineHidden: (UITableView *)tableView;
+
+- (void)setupViewColor;
+
 @end
